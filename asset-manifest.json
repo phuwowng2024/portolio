@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portolio/static/css/main.44708f50.css",
+    "main.js": "/portolio/static/js/main.0687c1f9.js",
+    "static/media/avatar-2.svg": "/portolio/static/media/avatar-2.85227757bb561e40296c33a6b60bf1aa.svg",
+    "static/media/avatar-1.svg": "/portolio/static/media/avatar-1.eb7ef398e51c84c9e842ed3d8d5dcc0f.svg",
+    "static/media/blog-1.svg": "/portolio/static/media/blog-1.e48a607900d69782963b491a08e6a30c.svg",
+    "static/media/travel.png": "/portolio/static/media/travel.3f1e703c327327f3a246.png",
+    "static/media/native-jobs.png": "/portolio/static/media/native-jobs.aefeaca3698579f1e739.png",
+    "static/media/cryptoverse.png": "/portolio/static/media/cryptoverse.9082016cd20b7f1e0ae0.png",
+    "static/media/resume.pdf": "/portolio/static/media/resume.ba202811364d86a2dbfe.pdf",
+    "static/media/avatar-3.svg": "/portolio/static/media/avatar-3.5bf46e6d1530bd73b02b567041e76e4d.svg",
+    "static/media/avatar-4.svg": "/portolio/static/media/avatar-4.4d2ab4dc6673ed8c338056b78ffa6930.svg",
+    "static/media/service-3.svg": "/portolio/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
+    "static/media/service-2.svg": "/portolio/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
+    "static/media/service-1.svg": "/portolio/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
+    "static/media/logo.svg": "/portolio/static/media/logo.e3a24721fc1de71803a80941b5611f71.svg",
+    "static/media/dots-bg-dark.svg": "/portolio/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
+    "static/media/dots-bg.svg": "/portolio/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "static/media/light-logo.svg": "/portolio/static/media/light-logo.060bc1a33908778a0f6c21523c22a8dd.svg",
+    "index.html": "/portolio/index.html",
+    "main.44708f50.css.map": "/portolio/static/css/main.44708f50.css.map",
+    "main.0687c1f9.js.map": "/portolio/static/js/main.0687c1f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44708f50.css",
+    "static/js/main.0687c1f9.js"
+  ]
+}
